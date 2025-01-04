@@ -1,0 +1,9 @@
+1. find the hash of the data "This is awesome!"
+
+2. find the nonce of the following block data with the hash starting with six zeros "000000"
+    Block no - 243
+    Data - "Day 2"
+
+3. find the nonce of the following block data with the hash ending with six zeros "000000"
+    Block no - 2431
+    Data - "Day 2"

@@ -1,0 +1,5 @@
+# Ignore all .pem files
+*.pem
+
+# Ignore all .bin files
+*.bin
